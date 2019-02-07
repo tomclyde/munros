@@ -29,7 +29,7 @@ MountainView.prototype.createMountainHeading = function () {
   } else {
     name.textContent = this.mountain.name;
   }
-  console.log(name);
+  // console.log(name);
   return name;
 };
 
